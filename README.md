@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🤝 Equipe **IMP-0 Base**
 
-- 📫 E-mail 1 **gabriel.jardim@wmw.com.br**
+- 📫 E-mail 1 **gabriel.jardim@consultorwmw.com.br**
 
 - 📫 E-mail 2 **gabriel@jardimconsulting.com.br**
 
