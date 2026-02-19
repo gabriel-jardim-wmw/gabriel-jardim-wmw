@@ -15,11 +15,9 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Sou o Gabriel Jardim</h1>
 <h3 align="center">Consultor de Implantação na WMW SYSTEMS</h3>
 
-- 🤝 Equipe **IMP-0 Base**
+- 🤝 Equipe **Base**
 
 - 📫 E-mail 1 **gabriel.jardim@consultorwmw.com.br**
-
-- 📫 E-mail 2 **gabriel@jardimconsulting.com.br**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
