@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 <h1 align="center">Sou o Gabriel Jardim</h1>
 <h3 align="center">Analista de Negócios</h3>
-<h2 align="center">:telephone: (48) 99651-6928 </h2>
+<h4 align="center">:telephone: (48) 99651-6928 </h4>
 
 <!--
 - 🤝 Equipe **Base**
