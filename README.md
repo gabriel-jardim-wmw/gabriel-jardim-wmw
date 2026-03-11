@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 <h3 align="center">Analista de Negócios</h3>
 
 
-- :telephone: (48) 99651-6928 
+:telephone: (48) 99651-6928 
 <!--
 - 🤝 Equipe **Base**
 
